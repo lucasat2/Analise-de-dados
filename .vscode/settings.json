@@ -15,5 +15,6 @@
             "database": "mysql",
             "password": ""
         }
-    ]
+    ],
+    "sqltools.results.location": "end"
 }
