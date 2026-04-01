@@ -1,1 +1,0 @@
-LOAD DATA LOCAL INFILE 'C:/Users/lucas/OneDrive/Desktop/analise_dados/exercicios/window_functions/2012Q1-capitalbikeshare-tripdata.csv' INTO TABLE TB_BIKES FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 LINES;
